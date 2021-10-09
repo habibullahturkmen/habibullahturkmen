@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Habibullah</h1>
-<h3 align="center">A passionate Java developer from Afghanistan</h3>
+<h3 align="center">A passionate Java developer</h3>
 
 - 🔭 I’m currently working on [Jetbrains Academy Java Backend Developer Track Projects](https://hyperskill.org/tracks/12/projects)
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/habibullahturkmen/](https://github.com/habibullahturkmen/)
 
-- 💬 Ask me about **Java, Spring Framework, JavaFX, Java Swing, Kafka, JavaScript**
+- 💬 Ask me about **Java, Spring Framework, JavaFX, Java Swing, Kafka**
 
 - 📫 How to reach me **habibullah_turkmen@yahoo.com**
 
