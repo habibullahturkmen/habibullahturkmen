@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Jetbrains Academy Java Backend Developer Track Projects](https://hyperskill.org/tracks/12/projects)
 
-- 🌱 I’m currently learning **Android, Kotlin, JavaScript, TypeScript, React, Node.js**
+- 🌱 I’m currently learning **Go, JavaScript, TypeScript, React, Node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/habibullahturkmen/](https://github.com/habibullahturkmen/)
 
