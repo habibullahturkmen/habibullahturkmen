@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Habibullah</h1>
-<h3 align="center">A passionate Java developer</h3>
+<h3 align="center">A passionate Java & React developer</h3>
 
-- 🔭 I’m currently working on Java Spring Framework and React Projects
+- 🔭 I’m currently working on **Java Spring Framework and React Projects**
 
 - 🌱 I’m currently learning **Node.js, React Native, TypeScript**
 
