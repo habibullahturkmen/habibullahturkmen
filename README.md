@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habibullahturkmen&label=Profile%20views&color=0e75b6&style=flat" alt="habibullahturkmen" /> </p>
 
-- 🔭 I’m currently working on **Java Spring Framework and React Projects**
+- 🔭 I’m currently working on **Vue and Go Projects**
 
-- 🌱 I’m currently learning **Node.js, React Native, TypeScript**
+- 🌱 I’m currently learning **Vue.js, Go, TDD**
 
 - 👨‍💻 All of my projects are available at [https://github.com/habibullahturkmen/](https://github.com/habibullahturkmen/)
 
-- 💬 Ask me about **Java, Spring Framework, JavaScript, React.js**
+- 💬 Ask me about **Java, JavaScript, Node.js**
 
 - 📫 How to reach me **habibullah_turkmen@yahoo.com**
 
