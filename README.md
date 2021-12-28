@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habibullahturkmen&label=Profile%20views&color=0e75b6&style=flat" alt="habibullahturkmen" /> </p>
 
-- 🔭 I’m currently working on **Vue and Go Projects**
+- 🔭 I’m currently working on **Vue.js and Go Projects**
 
 - 🌱 I’m currently learning **Vue.js, Go, TDD**
 
