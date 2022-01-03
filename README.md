@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Habibullah</h1>
-<h3 align="center">A passionate JavaScript & Java developer</h3>
+<h3 align="center">A passionate Java & JavaScript developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habibullahturkmen&label=Profile%20views&color=0e75b6&style=flat" alt="habibullahturkmen" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/habibullahturkmen/](https://github.com/habibullahturkmen/)
 
-- 💬 Ask me about **Vue.js, Go, Java, JavaScript, Node.js**
+- 💬 Ask me about **Java, JavaScript, Node.js, Vue.js, and Go**
 
 - 📫 How to reach me **habibullah_turkmen@yahoo.com**
 
