@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habibullahturkmen&label=Profile%20views&color=0e75b6&style=flat" alt="habibullahturkmen" /> </p>
 
-- 🔭 I’m currently working on **Vue.js and Go Projects**
+- 🔭 I’m currently working on **React.js and Node.js Projects**
 
-- 🌱 I’m currently learning **Vue.js, Go, TDD, ATDD**
+- 🌱 I’m currently learning **Blockchain, Solidity, and Next.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/habibullahturkmen/](https://github.com/habibullahturkmen/)
 
-- 💬 Ask me about **JavaScript, Node.js, and Vue.js**
+- 💬 Ask me about **JavaScript, Node.js, and React.js**
 
 - 📫 How to reach me **habibullah_turkmen@yahoo.com**
 
