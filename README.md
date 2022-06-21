@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **React.js and Node.js Projects**
 
-- 🌱 I’m currently learning **Blockchain, Solidity, and Next.js**
+- 🌱 I’m currently learning **Blockchain, Solidity, Tailwind CSS and Next.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/habibullahturkmen/](https://github.com/habibullahturkmen/)
 
-- 💬 Ask me about **JavaScript, Node.js, and React.js**
+- 💬 Ask me about **JavaScript, TypeScript, Node.js, and React.js**
 
 - 📫 How to reach me **habibullah_turkmen@yahoo.com**
 
