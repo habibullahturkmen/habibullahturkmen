@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habibullahturkmen&label=Profile%20views&color=0e75b6&style=flat" alt="habibullahturkmen" /> </p>
 
-- 🔭 I’m currently working on **React.js and Node.js Projects**
+- 🔭 I’m currently working on **NFT Marketplace Project**
 
 - 🌱 I’m currently learning **Blockchain, Solidity, Tailwind CSS and Next.js**
 
