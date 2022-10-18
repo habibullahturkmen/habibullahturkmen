@@ -3,17 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habibullahturkmen&label=Profile%20views&color=0e75b6&style=flat" alt="habibullahturkmen" /> </p>
 
-- 🔭 I’m currently working on **NFT Marketplace Project**
-
-- 🌱 I’m currently learning **Blockchain, Solidity, Tailwind CSS and Next.js**
-
 - 👨‍💻 All of my projects are available at [https://github.com/habibullahturkmen/](https://github.com/habibullahturkmen/)
 
-- 💬 Ask me about **JavaScript, TypeScript, Node.js, and React.js**
+- 💬 Ask me about **Java, Spring Boot, JavaScript, TypeScript, Node.js, and React.js**
 
 - 📫 How to reach me **habibullah_turkmen@yahoo.com**
 
-- Know about my experiences and connect with me [https://www.linkedin.com/in/habibullahturkmen/](https://www.linkedin.com/in/habibullahturkmen/)
+- Know about my experiences and connect with me [Linkedin](https://www.linkedin.com/in/habibullahturkmen/), [Leetcode](https://leetcode.com/habibullahturkmen/)
 
 
 <h3 align="left">Languages and Tools:</h3>
