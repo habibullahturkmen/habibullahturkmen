@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/habibullahturkmen/](https://github.com/habibullahturkmen/)
 
-- 💬 Ask me about **Java, Spring Boot, JavaScript, TypeScript, Node.js, and React.js**
+- 💬 Ask me about **JavaScript, TypeScript, Node.js, React.js, and Next.js**
 
 - 📫 How to reach me **habibullah_turkmen@yahoo.com**
 
