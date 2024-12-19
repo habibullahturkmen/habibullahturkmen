@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Habibullah Turkmen</h1>
-<h3 align="center">A passionate Full Stack JavaScript developer</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habibullahturkmen&label=Profile%20views&color=0e75b6&style=flat" alt="habibullahturkmen" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/habibullahturkmen/](https://github.com/habibullahturkmen/)
 
-- 💬 Ask me about **JavaScript, TypeScript, Node.js, React.js, and Next.js**
+- 💬 Ask me about **C, Go, JavaScript, TypeScript, Node.js, React.js, and Next.js**
 
 - 📫 How to reach me **habibullah_turkmen@yahoo.com**
 
